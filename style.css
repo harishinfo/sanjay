@@ -1,0 +1,174 @@
+.menu {
+  margin-left: 26%;
+  font-size: 14px;
+  background-color: rgb(255, 255, 255);
+  font-family: Open Sans;
+  color: #404040;
+  font-weight: 700;
+  margin-top: 33px;
+}
+#images {
+  height: 80vh;
+}
+.title {
+  margin-bottom: 20%;
+}
+.title h1 {
+  border: 1px solid white;
+  text-shadow: 2px 2px #646161;
+}
+.title h5 {
+  letter-spacing: 10px;
+}
+.images1 {
+  margin-bottom: -28%;
+}
+.images1 h1 {
+  font-size: 36px;
+  font-weight: 300;
+  text-transform: uppercase;
+  padding: 20px;
+  color: #444444;
+
+  /* border-bottom: 1px solid white; */
+}
+
+.width {
+  width: 160px;
+  height: 2px;
+  background-color: white;
+  margin-left: 43%;
+  margin-bottom: 36px;
+}
+.images2 {
+  position: relative;
+}
+.images2::after {
+  content: "";
+  position: absolute;
+  background: url("http://webpro.rs/wp-content/uploads/revslider/fullscreen-image-slider/slide22.jpg")
+    no-repeat center center;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  opacity: 0.2;
+}
+.box {
+  border: 1px solid black;
+  height: 24vh;
+  width: 161px;
+  margin-left: 121px;
+  margin-top: 54px;
+  margin-bottom: 100px;
+}
+.images2 h1 {
+  color: black;
+  margin-top: 80px;
+}
+.box i {
+  font-size: 56px;
+  color: #fbaf3f;
+  padding: 29px 49px 10px;
+  display: flex;
+}
+.width1 {
+  width: 160px;
+  height: 2px;
+  background-color: rgb(31, 25, 25);
+  margin-left: 43%;
+  margin-bottom: 36px;
+}
+.box1 {
+  border: 1px solid #131111;
+  height: 24vh;
+  width: 161px;
+  margin-left: 121px;
+  margin-top: 54px;
+  margin-bottom: 100px;
+}
+
+.box1 {
+  border: 1px solid #131111;
+  height: 24vh;
+  width: 202px;
+  margin-left: 39px;
+  margin-top: 54px;
+  margin-bottom: 100px;
+}
+.para1 {
+  font-family: Open Sans;
+  line-height: 34px;
+  font-weight: 300;
+  font-style: normal;
+  color: #444444;
+  font-size: 18px;
+}
+.text-center {
+  margin-top: 100px;
+}
+.box1 i {
+  font-size: 56px;
+  color: #fbaf3f;
+  padding: 29px 78px 10px;
+  display: flex;
+}
+.box1 h5 {
+  padding-left: 45px;
+}
+.image3 {
+  background-image: url("http://webpro.rs/wp-content/uploads/2014/03/aboutus-bg.jpg");
+  width: 100%;
+  height: auto;
+}
+.para2 {
+  color: white;
+}
+.para2 p {
+  width: 87%;
+  text-align: center;
+  margin-left: 74px;
+  margin-top: 91px;
+  margin-bottom: 8%;
+}
+#para {
+  width: 89%;
+  margin-left: 8%;
+  line-height: 2;
+}
+.width2 {
+  width: 160px;
+  height: 1px;
+  background-color: rgb(31, 25, 25);
+  margin-left: 43%;
+  margin-bottom: 36px;
+}
+#title3 {
+  margin-left: 49%;
+  margin-top: 66px;
+}
+#title4 {
+  margin-left: 49%;
+  margin-top: -34px;
+}
+#title5 {
+  margin-left: 49%;
+  margin-top: -34px;
+}
+.main {
+  margin-left: 23px;
+}
+.image5 {
+  background-image: url("http://webpro.rs/wp-content/uploads/2014/09/quote-bg.jpg");
+  margin-top: 14%;
+  height: 50vh;
+}
+.image5 h2 {
+  padding-top: 12%;
+  color: white;
+  padding-left: 24px;
+}
+.box h5 {
+  padding-left: 14px;
+}
